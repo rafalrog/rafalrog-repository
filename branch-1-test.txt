@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 "Adding branches. Zadanie 7 + zadanie 9"
-=======
-"Adding branches. Zadanie 7 + zadanie 9 na branchu-conflict-2"
->>>>>>> branch-conflict-2
